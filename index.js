@@ -20,7 +20,7 @@ exports.decorateConfig = config => {
 		borderColor: colors.foregroundColor,
 		cursorColor: colors.magenta,
 		fontSize: 14,
-		fontFamily: '"Hack", "Menlo", "Consolas", monospace',
+		fontFamily: '"MesloLGS NF"',
 		colors: [
 			colors.black,
 			colors.red,
